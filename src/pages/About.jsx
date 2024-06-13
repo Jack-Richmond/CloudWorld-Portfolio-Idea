@@ -10,11 +10,11 @@ const About = () => {
   return (
     <section className="max-container">
       <h1 className="head-text">
-        Hello, Welcome to <span className="blue-gradient_text front-semibold drop-shadow">Cloudworld</span>
+        Hello, I'm <span className="blue-gradient_text front-semibold drop-shadow">Jack</span>
         </h1>
 
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-          <p>Welcome to CloudWorld, a dynamic platform where discovery and innovation converge. Explore the realms of clouds and coins, unlocking secrets and opportunities at every turn.</p>
+          <p>Full Stack Web Developer based in London, I have completed multiple group and personal projects driving performance, reliability and scalability in developing customer-facing web applications. I have extensive experience of managing websites with a solid understanding of SEO and bespoke CMS platforms.  </p>
         </div>
 
         <div className='py-10 flex flex-col'>
